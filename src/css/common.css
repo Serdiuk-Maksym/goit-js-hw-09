@@ -16,3 +16,19 @@ img {
   display: block;
   max-width: 100%;
 }
+
+/* 1 TASK */
+.buttons {
+  display: flex;
+  margin: 500px auto;
+}
+.btn-start {
+  margin: 0 auto;
+  padding: 20px 30px;
+  font-size: 26px;
+}
+.btn-stop {
+  margin: 0 auto;
+  padding: 20px 30px;
+  font-size: 26px;
+}
